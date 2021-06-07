@@ -1,1 +1,1 @@
-# using turtle and tkinter to create a snake and ladder game
+# using turtle and tkinter to create a snake game
